@@ -1,0 +1,405 @@
+.rtop {
+	DISPLAY: block
+}
+.artop {
+	DISPLAY: block
+}
+.rtop * {
+	DISPLAY: block; FONT-SIZE: 1px; OVERFLOW: hidden; HEIGHT: 1px
+}
+.artop * {
+	DISPLAY: block; FONT-SIZE: 1px; OVERFLOW: hidden; HEIGHT: 1px
+}
+.artop * {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 0px solid; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 0px solid
+}
+.r1 {
+	MARGIN-LEFT: 5px
+}
+.rl1 {
+	MARGIN-LEFT: 5px
+}
+.re1 {
+	MARGIN-LEFT: 5px
+}
+.rel1 {
+	MARGIN-LEFT: 5px
+}
+.r1 {
+	MARGIN-RIGHT: 5px
+}
+.rr1 {
+	MARGIN-RIGHT: 5px
+}
+.re1 {
+	MARGIN-RIGHT: 5px
+}
+.rer1 {
+	MARGIN-RIGHT: 5px
+}
+.r2 {
+	MARGIN-LEFT: 3px
+}
+.rl2 {
+	MARGIN-LEFT: 3px
+}
+.re2 {
+	MARGIN-LEFT: 3px
+}
+.rel2 {
+	MARGIN-LEFT: 3px
+}
+.ra1 {
+	MARGIN-LEFT: 3px
+}
+.ral1 {
+	MARGIN-LEFT: 3px
+}
+.r2 {
+	MARGIN-RIGHT: 3px
+}
+.rr2 {
+	MARGIN-RIGHT: 3px
+}
+.re2 {
+	MARGIN-RIGHT: 3px
+}
+.rer2 {
+	MARGIN-RIGHT: 3px
+}
+.ra1 {
+	MARGIN-RIGHT: 3px
+}
+.rar1 {
+	MARGIN-RIGHT: 3px
+}
+.r3 {
+	MARGIN-LEFT: 2px
+}
+.rl3 {
+	MARGIN-LEFT: 2px
+}
+.re3 {
+	MARGIN-LEFT: 2px
+}
+.rel3 {
+	MARGIN-LEFT: 2px
+}
+.ra2 {
+	MARGIN-LEFT: 2px
+}
+.ral2 {
+	MARGIN-LEFT: 2px
+}
+.rs1 {
+	MARGIN-LEFT: 2px
+}
+.rsl1 {
+	MARGIN-LEFT: 2px
+}
+.res1 {
+	MARGIN-LEFT: 2px
+}
+.resl1 {
+	MARGIN-LEFT: 2px
+}
+.r3 {
+	MARGIN-RIGHT: 2px
+}
+.rr3 {
+	MARGIN-RIGHT: 2px
+}
+.re3 {
+	MARGIN-RIGHT: 2px
+}
+.rer3 {
+	MARGIN-RIGHT: 2px
+}
+.ra2 {
+	MARGIN-RIGHT: 2px
+}
+.rar2 {
+	MARGIN-RIGHT: 2px
+}
+.rs1 {
+	MARGIN-RIGHT: 2px
+}
+.rsr1 {
+	MARGIN-RIGHT: 2px
+}
+.res1 {
+	MARGIN-RIGHT: 2px
+}
+.resr1 {
+	MARGIN-RIGHT: 2px
+}
+.r4 {
+	MARGIN-LEFT: 1px
+}
+.rl4 {
+	MARGIN-LEFT: 1px
+}
+.rs2 {
+	MARGIN-LEFT: 1px
+}
+.rsl2 {
+	MARGIN-LEFT: 1px
+}
+.re4 {
+	MARGIN-LEFT: 1px
+}
+.rel4 {
+	MARGIN-LEFT: 1px
+}
+.ra3 {
+	MARGIN-LEFT: 1px
+}
+.ral3 {
+	MARGIN-LEFT: 1px
+}
+.ras1 {
+	MARGIN-LEFT: 1px
+}
+.rasl1 {
+	MARGIN-LEFT: 1px
+}
+.res2 {
+	MARGIN-LEFT: 1px
+}
+.resl2 {
+	MARGIN-LEFT: 1px
+}
+.r4 {
+	MARGIN-RIGHT: 1px
+}
+.rr4 {
+	MARGIN-RIGHT: 1px
+}
+.rs2 {
+	MARGIN-RIGHT: 1px
+}
+.rsr2 {
+	MARGIN-RIGHT: 1px
+}
+.re4 {
+	MARGIN-RIGHT: 1px
+}
+.rer4 {
+	MARGIN-RIGHT: 1px
+}
+.ra3 {
+	MARGIN-RIGHT: 1px
+}
+.rar3 {
+	MARGIN-RIGHT: 1px
+}
+.ras1 {
+	MARGIN-RIGHT: 1px
+}
+.rasr1 {
+	MARGIN-RIGHT: 1px
+}
+.res2 {
+	MARGIN-RIGHT: 1px
+}
+.resr2 {
+	MARGIN-RIGHT: 1px
+}
+.rx1 {
+	BORDER-LEFT-WIDTH: 5px
+}
+.rxl1 {
+	BORDER-LEFT-WIDTH: 5px
+}
+.rx1 {
+	BORDER-RIGHT-WIDTH: 5px
+}
+.rxr1 {
+	BORDER-RIGHT-WIDTH: 5px
+}
+.rx2 {
+	BORDER-LEFT-WIDTH: 3px
+}
+.rxl2 {
+	BORDER-LEFT-WIDTH: 3px
+}
+.rx2 {
+	BORDER-RIGHT-WIDTH: 3px
+}
+.rxr2 {
+	BORDER-RIGHT-WIDTH: 3px
+}
+.re2 {
+	BORDER-LEFT-WIDTH: 2px
+}
+.rel2 {
+	BORDER-LEFT-WIDTH: 2px
+}
+.ra1 {
+	BORDER-LEFT-WIDTH: 2px
+}
+.ral1 {
+	BORDER-LEFT-WIDTH: 2px
+}
+.rx3 {
+	BORDER-LEFT-WIDTH: 2px
+}
+.rxl3 {
+	BORDER-LEFT-WIDTH: 2px
+}
+.rxs1 {
+	BORDER-LEFT-WIDTH: 2px
+}
+.rxsl1 {
+	BORDER-LEFT-WIDTH: 2px
+}
+.re2 {
+	BORDER-RIGHT-WIDTH: 2px
+}
+.rer2 {
+	BORDER-RIGHT-WIDTH: 2px
+}
+.ra1 {
+	BORDER-RIGHT-WIDTH: 2px
+}
+.rar1 {
+	BORDER-RIGHT-WIDTH: 2px
+}
+.rx3 {
+	BORDER-RIGHT-WIDTH: 2px
+}
+.rxr3 {
+	BORDER-RIGHT-WIDTH: 2px
+}
+.rxs1 {
+	BORDER-RIGHT-WIDTH: 2px
+}
+.rxsr1 {
+	BORDER-RIGHT-WIDTH: 2px
+}
+.rxl1 {
+	BORDER-RIGHT-WIDTH: 0px
+}
+.rxl2 {
+	BORDER-RIGHT-WIDTH: 0px
+}
+.rxl3 {
+	BORDER-RIGHT-WIDTH: 0px
+}
+.rxl4 {
+	BORDER-RIGHT-WIDTH: 0px
+}
+.rxsl1 {
+	BORDER-RIGHT-WIDTH: 0px
+}
+.rxsl2 {
+	BORDER-RIGHT-WIDTH: 0px
+}
+.ral1 {
+	BORDER-RIGHT-WIDTH: 0px
+}
+.ral2 {
+	BORDER-RIGHT-WIDTH: 0px
+}
+.ral3 {
+	BORDER-RIGHT-WIDTH: 0px
+}
+.ral4 {
+	BORDER-RIGHT-WIDTH: 0px
+}
+.rasl1 {
+	BORDER-RIGHT-WIDTH: 0px
+}
+.rasl2 {
+	BORDER-RIGHT-WIDTH: 0px
+}
+.rxr1 {
+	BORDER-LEFT-WIDTH: 0px
+}
+.rxr2 {
+	BORDER-LEFT-WIDTH: 0px
+}
+.rxr3 {
+	BORDER-LEFT-WIDTH: 0px
+}
+.rxr4 {
+	BORDER-LEFT-WIDTH: 0px
+}
+.rxsr1 {
+	BORDER-LEFT-WIDTH: 0px
+}
+.rxsr2 {
+	BORDER-LEFT-WIDTH: 0px
+}
+.rar1 {
+	BORDER-LEFT-WIDTH: 0px
+}
+.rar2 {
+	BORDER-LEFT-WIDTH: 0px
+}
+.rar3 {
+	BORDER-LEFT-WIDTH: 0px
+}
+.rar4 {
+	BORDER-LEFT-WIDTH: 0px
+}
+.rasr1 {
+	BORDER-LEFT-WIDTH: 0px
+}
+.rasr2 {
+	BORDER-LEFT-WIDTH: 0px
+}
+.r4 {
+	HEIGHT: 2px
+}
+.rl4 {
+	HEIGHT: 2px
+}
+.rr4 {
+	HEIGHT: 2px
+}
+.re4 {
+	HEIGHT: 2px
+}
+.rel4 {
+	HEIGHT: 2px
+}
+.rer4 {
+	HEIGHT: 2px
+}
+.ra4 {
+	HEIGHT: 2px
+}
+.rar4 {
+	HEIGHT: 2px
+}
+.ral4 {
+	HEIGHT: 2px
+}
+.rx4 {
+	HEIGHT: 2px
+}
+.rxl4 {
+	HEIGHT: 2px
+}
+.rxr4 {
+	HEIGHT: 2px
+}
+.rer1 {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 0px! important; BORDER-RIGHT-WIDTH: 0px
+}
+.rel1 {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 0px! important; BORDER-RIGHT-WIDTH: 0px
+}
+.re1 {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 0px! important; BORDER-RIGHT-WIDTH: 0px
+}
+.res1 {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 0px! important; BORDER-RIGHT-WIDTH: 0px
+}
+.resl1 {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 0px! important; BORDER-RIGHT-WIDTH: 0px
+}
+.resr1 {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 0px! important; BORDER-RIGHT-WIDTH: 0px
+}

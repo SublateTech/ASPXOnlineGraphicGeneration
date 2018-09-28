@@ -1,0 +1,11 @@
+bin\Release\CurvedDivControl.dll
+bin\Release\CurvedDivControl.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CurvedDivControl.dll
+obj\Release\CurvedDivControl.pdb
+obj\Release\CurvedDivControl.Resources.layout.js
+obj\Release\CurvedDivControl.Resources.MenuAdapter.js
+obj\Release\CurvedDivControl.Resources.nifty.js
+obj\Release\CurvedDivControl.Resources.Menu.css
+obj\Release\CurvedDivControl.Resources.niftyCorners.css
+obj\Release\CurvedDivControl.Resources.niftyPrint.css

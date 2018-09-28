@@ -1,0 +1,17 @@
+<Advertisements>  
+  <Ad>
+      <ImageUrl>\images\Signature_1.jpg</ImageUrl>
+      <NavigateUrl>http://localhost:1337/</NavigateUrl>
+      <AlternateText>
+          The best ASP.Net web site in the world!
+       </AlternateText>      
+   </Ad>
+
+  <Ad>
+    <ImageUrl>\images\Signature_2.jpg</ImageUrl>
+    <NavigateUrl>http://localhost:1337/</NavigateUrl>
+    <AlternateText>
+      The best ASP.Net web site in the world!
+    </AlternateText>    
+  </Ad>
+</Advertisements>
